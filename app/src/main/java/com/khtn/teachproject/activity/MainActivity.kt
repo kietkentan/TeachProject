@@ -1,7 +1,8 @@
-package com.khtn.teachproject
+package com.khtn.teachproject.activity
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.khtn.teachproject.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
