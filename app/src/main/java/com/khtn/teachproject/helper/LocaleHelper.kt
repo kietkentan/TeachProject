@@ -41,7 +41,7 @@ object LocaleHelper {
 
     private fun getPersistedData(context: Context): String {
         return SharedPreferencesManager(context).retrieveByKey(SharedPrefConstants.LANGUAGE)
-            ?: return SupportLanguage.VIETNAM.lang
+            ?: return SupportLanguage.VIETNAMESE.lang
     }
 
     @TargetApi(Build.VERSION_CODES.N)
@@ -76,7 +76,7 @@ object LocaleHelper {
         if (str == SupportLanguage.ENGLISH.lang) {
             setLocale(context, SupportLanguage.ENGLISH.lang)
         } else {
-            setLocale(context, SupportLanguage.VIETNAM.lang)
+            setLocale(context, SupportLanguage.VIETNAMESE.lang)
         }
     }
 }

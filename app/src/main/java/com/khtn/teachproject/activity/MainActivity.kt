@@ -32,7 +32,7 @@ class MainActivity : AppCompatActivity() {
             // Change Locale
             LocaleHelper.setLocale(
                 this@MainActivity,
-                if (isEnglish) SupportLanguage.VIETNAM.lang
+                if (isEnglish) SupportLanguage.VIETNAMESE.lang
                 else SupportLanguage.ENGLISH.lang
             )
             updateUi()
