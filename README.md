@@ -10,7 +10,7 @@ Tùy chọn ngôn ngữ và đa kích thước trong ứng dụng
 
 [3. Thiết lập ngôn ngữ](#LoadLang)
 
-[1. Listener](#Listener)
+[4. Listener](#Listener)
 
 <a name="AddResource"></a>
 ### 1. Thêm file resource
