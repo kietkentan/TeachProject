@@ -12,7 +12,7 @@ Tùy chọn ngôn ngữ và đa kích thước trong ứng dụng
 <a name="AddResource"></a>
 ### 1. Thêm file resource
 - Thêm các [file kích thước](https://github.com/kietkentan/TeachProject/tree/multilple_version/app/src/main/res) vào dự án. Kích thước là các file `dimens.xml` trong value. Mặc định hệ thống sẽ lấy kích thước từ value. Nếu chiều ngang màn hình thay đổi thì sẽ lấy trong value tương ứng, ví dụ màn hình có chiều ngang 420dp thì sẽ lấy trong value-w420dp.
--- Có thể sao chép vào hoặc tạo thủ công
+    - Có thể sao chép vào hoặc tạo thủ công
 - Đặt ngôn ngữ mặc định của android là `vi` (tiếng Việt) trong [value\strings.xml](https://github.com/kietkentan/TeachProject/blob/multilple_version/app/src/main/res/values/strings.xml)
 ```xml
 <resources xmlns:tools="http://schemas.android.com/tools"
@@ -21,8 +21,8 @@ Tùy chọn ngôn ngữ và đa kích thước trong ứng dụng
  </resources>
 ```
 - Thêm một bản dịch ngôn ngữ vào android: 
--- Chuột phải vào `res` -> New -> Android Resource File
--- Ở phần Avilable qualifiers ta chọn thêm Locale, tìm kiếm ngôn ngữ tương ứng
+    - Chuột phải vào `res` -> New -> Android Resource File
+    - Ở phần Avilable qualifiers ta chọn thêm Locale, tìm kiếm ngôn ngữ tương ứng
 
 ![Mặc định](https://github.com/kietkentan/TeachProject/assets/55453955/e5d50d6d-5cf7-4c06-8eb6-eccddb1310bd)
 ![Kích thước + Ngôn ngữ thay đổi](https://github.com/kietkentan/TeachProject/assets/55453955/e92ea1c2-945b-404e-836c-25c66289866d)
