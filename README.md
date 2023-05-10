@@ -29,6 +29,8 @@ Tùy chọn ngôn ngữ và đa kích thước trong ứng dụng
 
 ![Mặc định](https://github.com/kietkentan/TeachProject/assets/55453955/e5d50d6d-5cf7-4c06-8eb6-eccddb1310bd)
 ![Kích thước + Ngôn ngữ thay đổi](https://github.com/kietkentan/TeachProject/assets/55453955/e92ea1c2-945b-404e-836c-25c66289866d)
+![image](https://github.com/kietkentan/TeachProject/assets/55453955/d1079952-90b8-4385-a2a3-821a0a6079ef)
+
 <a name="AddClass"></a>
 ### 2. Thêm các lớp hỗ trợ trong [helper](https://github.com/kietkentan/TeachProject/tree/multilple_version/app/src/main/java/com/khtn/teachproject/helper) và [utils](https://github.com/kietkentan/TeachProject/tree/multilple_version/app/src/main/java/com/khtn/teachproject/utils)
 Các lớp này hỗ trợ lưu và lấy thông tin cài đặt ngôn ngữ trong SharedPreferences
