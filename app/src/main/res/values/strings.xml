@@ -1,3 +1,7 @@
-<resources>
-    <string name="app_name">TeachProject</string>
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools"
+    tools:locale="vi">
+    <string name="app_name" translatable="false">TeachProject</string>
+    <string name="hello_world">Xin chào thế giới!</string>
+    <string name="change_language">Đổi ngôn ngữ</string>
 </resources>
