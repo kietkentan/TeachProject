@@ -23,6 +23,7 @@ Tùy chọn ngôn ngữ và đa kích thước trong ứng dụng
 - Thêm một bản dịch ngôn ngữ vào android: 
 -- Chuột phải vào `res` -> New -> Android Resource File
 -- Ở phần Avilable qualifiers ta chọn thêm Locale, tìm kiếm ngôn ngữ tương ứng
+
 ![Mặc định](https://github.com/kietkentan/TeachProject/assets/55453955/e5d50d6d-5cf7-4c06-8eb6-eccddb1310bd)
 ![Kích thước + Ngôn ngữ thay đổi](https://github.com/kietkentan/TeachProject/assets/55453955/e92ea1c2-945b-404e-836c-25c66289866d)
 <a name="AddClass"></a>
