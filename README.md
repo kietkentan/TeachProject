@@ -5,8 +5,11 @@ Tùy chọn ngôn ngữ và đa kích thước trong ứng dụng
 ## Documentation
 
 [1. Thêm resource](#AddResource)
+
 [2. Lớp hỗ trợ](#AddClass)
+
 [3. Thiết lập ngôn ngữ](#LoadLang)
+
 [1. Listener](#Listener)
 
 <a name="AddResource"></a>
